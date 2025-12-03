@@ -1642,7 +1642,7 @@ elif page == "Predictive Models":
     poly_model.fit(X_poly, y)
 
     # Future predictions
-    future_years = np.array([[2024], [2025], [2026], [2027], [2028]])
+    future_years = np.array([[2025], [2025], [2026], [2027], [2028]])
     future_years_poly = poly_features.transform(future_years)
 
     linear_pred = lr_model.predict(future_years)
@@ -2260,7 +2260,7 @@ st.markdown(
     """
 <div style='text-align: center; color: #c0c0c0; font-size: 0.9rem; padding: 2rem 0;'>
     <p>Netflix Business Economics Dashboard | Data-Driven Insights</p>
-    <p style="color: #808080;">© 2024 | Comprehensive Analysis of Streaming Platform Performance</p>
+    <p style="color: #808080;">© 2025 | Comprehensive Analysis of Streaming Platform Performance</p>
 </div>
 """,
     unsafe_allow_html=True,
