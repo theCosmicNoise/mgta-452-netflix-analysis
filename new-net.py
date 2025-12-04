@@ -321,7 +321,7 @@ st.sidebar.markdown("---")
 page = st.sidebar.radio(
     "Navigation",
     [
-        "Project Overview",
+        "Project Documentation",
         "Overview",
         "Financial Analysis",
         "Subscriber Metrics",
@@ -346,9 +346,9 @@ st.sidebar.info(
 # PROJECT OVERVIEW PAGE
 # ============================================================================
 
-if page == "Project Overview":
+if page == "Project Documentation":
     st.markdown(
-        '<div class="main-header">📊 Netflix Business Economics</div>',
+        '<div class="main-header">Netflix Business Economics</div>',
         unsafe_allow_html=True,
     )
     st.markdown(
