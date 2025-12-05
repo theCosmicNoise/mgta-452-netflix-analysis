@@ -1,6 +1,6 @@
 # Netflix Business Economics Dashboard
 
-[Project Link](https://netflix-business-analysis.streamlit.app/)
+## [Project Link](https://netflix-business-analysis.streamlit.app/)
 
 ## The Business Behind the Stream: Economics of Global Entertainment Platforms
 
