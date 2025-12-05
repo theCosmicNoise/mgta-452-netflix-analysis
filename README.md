@@ -1,5 +1,7 @@
 # Netflix Business Economics Dashboard
 
+[Project Link](https://netflix-business-analysis.streamlit.app/)
+
 ## The Business Behind the Stream: Economics of Global Entertainment Platforms
 
 A comprehensive dashboard analyzing Netflix's business economics, including revenue streams, content spending strategies, subscriber growth patterns, and profitability trends.
